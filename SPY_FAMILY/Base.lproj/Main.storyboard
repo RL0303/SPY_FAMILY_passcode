@@ -44,6 +44,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="Ccx-zI-ahk"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="FW1-kc-XI1">
                                         <rect key="frame" x="36" y="113" width="75" height="75"/>
@@ -54,6 +57,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="2Qi-93-rea"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="yO7-GS-Ffr">
                                         <rect key="frame" x="36" y="208" width="75" height="75"/>
@@ -64,6 +70,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="A9m-kc-MfH"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="P4s-8S-iOA">
                                         <rect key="frame" x="170" y="18" width="75" height="75"/>
@@ -74,6 +83,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="WkO-Lw-gID"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="7fG-WI-icq">
                                         <rect key="frame" x="170" y="113" width="75" height="75"/>
@@ -84,6 +96,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="9v9-9L-Iyz"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="GDq-MM-IhQ">
                                         <rect key="frame" x="170" y="208" width="75" height="75"/>
@@ -94,6 +109,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="oQm-nt-Lqb"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="wS1-4Y-nnr">
                                         <rect key="frame" x="303" y="113" width="75" height="75"/>
@@ -104,6 +122,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="kHI-gO-bPN"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="ucM-jM-7JE">
                                         <rect key="frame" x="303" y="208" width="75" height="75"/>
@@ -114,6 +135,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="EHs-E1-RyR"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="aAn-m2-2hF">
                                         <rect key="frame" x="170" y="303" width="75" height="75"/>
@@ -124,6 +148,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="FiM-Wv-bXd"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="Pk6-Wh-hKz">
                                         <rect key="frame" x="303" y="18" width="75" height="75"/>
@@ -134,6 +161,9 @@
                                             <backgroundConfiguration key="background"/>
                                             <fontDescription key="titleFontDescription" type="system" pointSize="30"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="inputNumberButtons:" destination="BYZ-38-t0r" eventType="touchUpInside" id="8dk-id-ID5"/>
+                                        </connections>
                                     </button>
                                     <button opaque="NO" contentMode="scaleToFill" fixedFrame="YES" contentHorizontalAlignment="center" contentVerticalAlignment="center" buttonType="system" lineBreakMode="middleTruncation" translatesAutoresizingMaskIntoConstraints="NO" id="iDp-iQ-yz2">
                                         <rect key="frame" x="293" y="303" width="94" height="75"/>
@@ -144,6 +174,9 @@
                                             <imageReference key="image" image="delete.backward.fill" catalog="system" symbolScale="large"/>
                                             <backgroundConfiguration key="background"/>
                                         </buttonConfiguration>
+                                        <connections>
+                                            <action selector="deleteOneDigit:" destination="BYZ-38-t0r" eventType="touchUpInside" id="s15-Gh-PkP"/>
+                                        </connections>
                                     </button>
                                 </subviews>
                                 <color key="backgroundColor" red="0.83601943892525243" green="0.78906412248374125" blue="0.60390434207331212" alpha="1" colorSpace="custom" customColorSpace="displayP3"/>
@@ -157,7 +190,7 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" systemColor="systemGray2Color"/>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="gHP-bK-CgZ">
                                 <rect key="frame" x="213" y="349" width="80" height="80"/>
@@ -168,7 +201,7 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" systemColor="systemGray2Color"/>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="ds1-mJ-W3Z">
                                 <rect key="frame" x="313" y="349" width="80" height="80"/>
@@ -179,7 +212,7 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" systemColor="systemGray2Color"/>
                             </view>
                             <view contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="tUV-sR-3ra">
                                 <rect key="frame" x="113" y="349" width="80" height="80"/>
@@ -190,7 +223,7 @@
                                         <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                                     </imageView>
                                 </subviews>
-                                <color key="backgroundColor" systemColor="systemBackgroundColor"/>
+                                <color key="backgroundColor" systemColor="systemGray2Color"/>
                             </view>
                         </subviews>
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
@@ -199,16 +232,20 @@
                     <connections>
                         <outlet property="deleteButton" destination="iDp-iQ-yz2" id="rmL-Mq-KzS"/>
                         <outlet property="eightButton" destination="GDq-MM-IhQ" id="diq-v1-GEI"/>
+                        <outlet property="firstDigitImageView" destination="LWn-o8-2E2" id="Iti-v4-obu"/>
                         <outlet property="firstDigitView" destination="FzD-H9-lJ0" id="gx2-aN-3rz"/>
                         <outlet property="fiveButton" destination="7fG-WI-icq" id="UJB-mV-Txt"/>
                         <outlet property="fourButton" destination="FW1-kc-XI1" id="pg4-zA-fLb"/>
+                        <outlet property="fourthDigitImageView" destination="49k-Uz-lxW" id="Wky-Oq-J47"/>
                         <outlet property="fourthDigitView" destination="ds1-mJ-W3Z" id="wIH-YN-xht"/>
                         <outlet property="nineButton" destination="ucM-jM-7JE" id="OZM-4n-XgS"/>
                         <outlet property="oneButton" destination="ZGk-Oa-dvO" id="JOv-0F-bSM"/>
                         <outlet property="resultLabel" destination="Ttz-8N-bGP" id="SwC-m6-Sn0"/>
+                        <outlet property="secondDigitImageView" destination="sqz-u7-0yt" id="kk3-8z-F4i"/>
                         <outlet property="secondDigitView" destination="tUV-sR-3ra" id="CRf-94-Lh6"/>
                         <outlet property="sevenButton" destination="yO7-GS-Ffr" id="1c4-cD-p04"/>
                         <outlet property="sixButton" destination="wS1-4Y-nnr" id="XYe-ei-jS0"/>
+                        <outlet property="thirdDigitImageView" destination="Qt3-a8-n0h" id="5BR-pf-N7x"/>
                         <outlet property="thirdDigitView" destination="gHP-bK-CgZ" id="NEV-R3-E4m"/>
                         <outlet property="threeButton" destination="Pk6-Wh-hKz" id="uyp-cS-9xi"/>
                         <outlet property="twoButton" destination="P4s-8S-iOA" id="Xhr-9O-gXS"/>
@@ -221,13 +258,16 @@
         </scene>
     </scenes>
     <resources>
-        <image name="Anya" width="290" height="290"/>
-        <image name="Bond" width="278" height="272"/>
-        <image name="Loid" width="350" height="350"/>
-        <image name="Yor" width="322" height="322"/>
+        <image name="Anya" width="80" height="80"/>
+        <image name="Bond" width="80" height="78"/>
+        <image name="Loid" width="80" height="80"/>
+        <image name="Yor" width="80" height="80"/>
         <image name="delete.backward.fill" catalog="system" width="128" height="104"/>
         <systemColor name="systemBackgroundColor">
             <color white="1" alpha="1" colorSpace="custom" customColorSpace="genericGamma22GrayColorSpace"/>
+        </systemColor>
+        <systemColor name="systemGray2Color">
+            <color red="0.68235294117647061" green="0.68235294117647061" blue="0.69803921568627447" alpha="1" colorSpace="custom" customColorSpace="sRGB"/>
         </systemColor>
     </resources>
 </document>
