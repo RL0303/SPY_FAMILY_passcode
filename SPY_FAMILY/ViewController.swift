@@ -102,7 +102,7 @@ class ViewController: UIViewController {
                 //密碼輸入正確會顯示「解鎖成功」
                 resultLabel.text = "解鎖成功！"
                 resultLabel.isHidden = false
-                
+                performSegue(withIdentifier: "showPost", sender: nil)
             } else {
                 // 0.3秒後執行
                 DispatchQueue.main.asyncAfter(deadline: .now() + 0.3) {
@@ -172,11 +172,11 @@ class ViewController: UIViewController {
         }
         //刪除時也清空結果訊息
         resultLabel.text = ""
-        //彈出userInpus最後一個位數，_代表return出來的東西後續不再使用
+        //移除userInpus最後一個位數，_代表return出來的東西後續不再使用
         let _ = userInputs.popLast()
-//        print(userInputs)
-        //處理完之後再檢查一次userInputs，如果為0就隱藏全部無臉男
-        //如果不為0就先全部隱藏後再顯示對應數量的無臉男
+        print(userInputs)
+        //處理完之後再檢查一次userInputs，如果為0就隱藏密碼圖片
+        //如果不為0就先全部隱藏後再顯示對應數量的密碼圖片
         if userInputs.count == 0 {
             hideAllDigitImages()
         } else {
